@@ -6,6 +6,6 @@ Given an estimated upper bound on the number, this should eventually inform whic
 ##What we know so far.
 
 1. Primeness
-..1. The number is not prime
-..2. The number has two unique prime factors
-..3. The number has two total prime factors.
+  1. The number is not prime
+  2. The number has two unique prime factors
+  3. The number has two total prime factors.
